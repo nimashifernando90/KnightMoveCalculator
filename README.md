@@ -47,13 +47,6 @@ Build and run using:
 
     swiftc main.swift -o KnightMoveCalculator
     ./KnightMoveCalculator
-
-## 🧪 Future Improvements
-
--   Add support for other chess pieces
--   Build a SwiftUI board visualizer
--   Add XCTest unit tests
-
   
 
   
